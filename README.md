@@ -2,8 +2,8 @@
 Teste Técnico para Analista de QA | Robot Framework
 
 <p><strong>Desenvolvido por:</strong> Diego Augusto Pereira<br>
-<p><strong>E-mail:</strong> diegoaugusto008@gmail.com<br>
-<p><strong>Linkedin:</strong> linkedin.com/in/diego-pereira-analista<br>
+<strong>E-mail:</strong> diegoaugusto008@gmail.com<br>
+<strong>Linkedin:</strong> linkedin.com/in/diego-pereira-analista</p>
 
 <p>O teste tem a finalidade de testar a funcionalidade de Adicionar nova Experiência Profissional no Linkedin</p>
 <p><strong>IDE utilizada:</strong> VSCODE<br>
